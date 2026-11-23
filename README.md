@@ -1,5 +1,5 @@
 # OSS Week 13 — React Mini Dashboard (Student Starter)
-
+## 황예찬 
 > **강의 중 연습용 프로젝트입니다. 제출하지 않습니다.** 이 LAB의 GitHub URL, Vercel URL, 스크린샷 및 결과 보고서를 LMS에 제출할 필요가 없습니다. **실제 평가 대상은 각 팀이 선정한 오픈소스 프로젝트와 팀 프로젝트 과제 결과물입니다.**
 
 ## 1. 학습 목표

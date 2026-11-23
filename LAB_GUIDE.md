@@ -166,3 +166,5 @@ https://api.open-meteo.com/v1/forecast?latitude=37.5665&longitude=126.9780&curre
 - F3 기본 기능 구현 및 GitHub 협업·Vercel 배포
 - 14주차 F2에 사용할 Open API를 직접 탐색·호출·테스트하여 선정
 - 실제 팀 프로젝트 과제 지침에 따라 결과물 제출
+
+
